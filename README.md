@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno (baferr-sec) 👋
 
-Especialista em processos com foco em transição para **Cybersecurity & Cloud Security**. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta.
+Especialista em finanças, Riscos, controles e processos com foco em transição para **Cybersecurity & Cloud Security**. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta.
 
 ### 🎯 Objetivo Profissional
 Unir a experiência em auditoria e conformidade (ISO 9001) com segurança cibernética e automação de processos.
