@@ -14,7 +14,7 @@ Unir a experiência em auditoria e conformidade (ISO 9001) com segurança cibern
 * **Linguagens (em andamento):** Python (estudando integração com SQL e automação)
 * **Ferramentas (em andamento):** Git, GitHub, VS Code, DBeaver (SQLite)
 * **Certificações Profissionais:** Green Belt Lean Six Sigma, Auditor Interno ISO 9001
-*  **Certificação Legal:** C Pro-R (CPA-20 -- Gerenciamento de carteira de investimento voltada a investidores qualificados)
+*  **Certificação Legal:** C Pro-R (CPA-20 -- Gerenciamento de carteira de investimento / investidores qualificados)
 
 ### 📈 Estou trabalhando agora
 No meu repositório [ADS--Impacta](https://github.com/baferr-sec/ADS--Impacta), estou documentando meus scripts iniciais de Python 3.14 e banco de dados e preparando meu notebook com os softwares necessário para desenvolvimento DevSecOp.
