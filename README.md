@@ -15,5 +15,5 @@ Unir a experiência em auditoria e conformidade (ISO 9001) com segurança cibern
 * **Ferramentas (em andamento):** Git, GitHub, VS Code, DBeaver (SQLite)
 * **Processos:** Green Belt Lean Six Sigma, Auditor Interno ISO 9001, C Pro-R (CPA-20)
 
-### 📈 No que estou trabalhando agora
+### 📈 Estou trabalhando agora
 No meu repositório [ADS--Impacta](https://github.com/baferr-sec/ADS--Impacta), estou documentando meus scripts iniciais de Python 3.14 e banco de dados e preparando meu notebook com os softwares necessário para desenvolvimento DevSecOp.
